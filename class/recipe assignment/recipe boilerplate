@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Title tag</title>
+    <meta name="description" content="Description goes here.">
+    <link rel="stylesheet" href="boilerplate.css">
+</head>
+<body>
+    <h1>Kimchi Fried Rice</h1>
+    <img src="images/kimchi fried-rice.jpeg" alt="kimchi fried rice recipe">
+    <hr>
+    <p>Inspired by one of my favorite food trucks in Seattle, Marination Mobile, this fried rice is spicy, with a bit of crunch from the cashews. When it is in my bowl, I top it with two over-easy eggs and a little more kimchi on the side.</p>
+    <p><b>Serves:</b>2</p>
+    <p><b>Total Cooking Time:</b> under 1 hour</p>
+    <h2>Ingredients</h2>
+    <ul>
+        <li>2 tablespoons vegetable oil divided</li>
+        <li>1 yellow onion diced</li>
+        <li>4 green onions white and light-green parts chopped</li>
+        <li>1 large carrot finely diced</li>
+        <li>8 ounces shiitake mushrooms stemmed and sliced</li>
+        <li>2 cloves garlic minced</li>
+        <li>1/2 cup kimchi plus more for serving</li>
+        <li>1 tablespoon minced fresh ginger</li>
+        <li>3 cups cooked and cooled rice</li>
+        <li>1 tablespoon soy sauce</li>
+        <li>1 tablespoon sriracha (optional</li>
+        <li>1/4 cup cashews chopped (optional)</li>
+        <li>2 to 4 eggs</li>
+    </ul>
+    <h2>Instructions</h2>
+    <ol>
+        <li>Heat 1 tablespoon of the oil in a large wok over medium- high heat. Add the onion, green onions, and carrot, and cook until lightly softened, about 2 minutes. Remove the veggies from the wok and lightly wipe it out with a paper towel.</li>
+        <li>Return the wok to the heat and add the remaining tablespoon oil, along with the mushrooms and garlic. Stir-fry for about 2 minutes, or until the shiitakes soften and become a little glossy. Chop the kimchi. Add the onion mixture back to the wok, along with the ginger and kimchi.</li>
+        <li>Add the rice and stir to distribute. Increase the heat slightly and let the rice sit so some of it crisps on the bottom of the wok. Pour in the soy sauce and sriracha and stir to combine. Stir in the cashews. Reduce the heat to medium-low. In a separate skillet, fry the eggs over easy.</li>
+        <li>To serve, divide the rice between 2 bowls and top each bowl with 1 or 2 eggs and additional kimchi on the side.</li>
+    </ol>
+    <p>This recipe is courtest of <a href="https://www.cookstr.com/recipes/kimchi-fried-rice-2">cookstr.com</a>.</p>
+</body>
+</html>
