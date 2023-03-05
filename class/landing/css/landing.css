@@ -1,6 +1,29 @@
 body {
     font-size: 18px;
-    font-family: 'Orbitron', sans-serif;
-    color: #664C4B
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    color: #664C4B;
 }
 
+h1 {
+    font-family: 'Orbitron', sans-serif;
+}
+.nav a {
+    display: block;
+}
+
+footer {
+    text-align: center;
+}
+
+header {
+    margin: 3em 0;
+}
+
+main {
+    margin: 0 0 3em 0;
+
+}
+
+.description {
+    margin: 3em 0 0 0;
+}
