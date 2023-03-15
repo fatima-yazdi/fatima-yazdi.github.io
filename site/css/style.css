@@ -3,29 +3,53 @@ body {
     font-family: 'Barlow Semi Condensed', sans-serif;
     font-family: 'Orbitron', sans-serif;
     font-family: 'Playfair Display', serif;
-    color: #ABB2B9  ;
+    color: #FFFFFF;
+    background: #D3D3D3;
 }
 
 h1 {
-    margin: .5em 0;
+    margin: .7em 0;
+    font-size: 50px;
 }
 
-.navbar-nav{
+.nav-link {
     font-size: 17px;
     display: inline-block;
-
+    color: #FFFFFF;
+    margin: .7em 0;
 }
 
+.home {
+    height: 100vh;
+    background-image: url(../images/homepic.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
 
+.home p {
+    margin: 1.3em 0;
+    font-size: 16px;
+}
 
+.home h1 {
+    font-size: 75px;
+    margin-left: 1em;
+}
 
+.btn-link {
+    background-color: #ABB2B9;
+}
 
+.card {
+    color: black;
+    font-size: 13px;
+}
 
+.card a {
+    color: #bbeeff;
+}
 
-
-
-
-
-
-
-
+iframe {
+    height: 115px;
+    width: 100%;
+}
