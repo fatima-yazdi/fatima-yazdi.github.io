@@ -17,6 +17,8 @@ h1 {
     display: inline-block;
     color: #FFFFFF;
     margin: .7em 0;
+    padding: 0 1em 1em 0;
+    margin: 0;
 }
 
 .home {
@@ -29,11 +31,15 @@ h1 {
 .home p {
     margin: 1.3em 0;
     font-size: 16px;
+    padding: 0;
+    margin: 4em 0 0 0;
 }
 
 .home h1 {
     font-size: 75px;
     margin-left: 1em;
+    margin: 0;
+    text-shadow: 1px 2px #000;
 }
 
 .btn-link {
@@ -47,9 +53,15 @@ h1 {
 
 .card a {
     color: #bbeeff;
+    text-decoration: none;
+}
+
+a {
+    color: #000;
 }
 
 iframe {
-    height: 115px;
+    height: 450px;
     width: 100%;
+    padding: 0 0 1em 0;
 }
