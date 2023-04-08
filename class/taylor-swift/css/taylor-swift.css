@@ -1,0 +1,100 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    background-color: #fafafa;
+}
+
+.titlepage {
+    background-color: #0e171a;
+    padding: 9em;
+}
+
+.titlepage a {
+    color: #fafafa;
+}
+
+.part1 p {
+    padding: .6em 4em;
+}
+
+.titlepage p {
+    color: #fafafa;
+    text-transform: uppercase;
+    font-size: .65em;
+    letter-spacing: 1.5px;
+}
+
+h1 {
+    font-family: 'Cabin Condensed';
+    font-size: 3em;
+    color: #fafafa;
+    font-weight: 700;
+}
+
+.part2 p {
+    padding: .3em 4em;
+}
+
+.map {
+    padding: .5em 16em;
+}
+
+h2 {
+    font-family: 'Cabin Condensed';
+    font-size: 1.5em;
+    font-weight: 700;
+    padding: 1em 0 .5em 0;
+}
+
+.transition a {
+    color: #0e171a;
+}
+
+.timeline a {
+    color: #0e171a;
+}
+
+.timeline b {
+    color: #fafafa;
+    background-color: #b2322d;
+    padding: .2em;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+
+h3 {
+    font-family: 'Cabin Condensed';
+    font-size: 1.25em;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+h4 {
+    font-family: 'Cabin Condensed';
+    font-size: 1.25em;
+    color: #b2322d;
+    font-weight: 700;
+    padding: 1em;
+    text-align: center;
+}
+
+.toptrackstable p {
+    text-align: center;
+}
+
+.topartiststable {
+    text-align: center;
+    padding: 1em;
+}
+
+.bullets a {
+    color: #0e171a;
+}
+
+footer p {
+    text-align: center;
+}
+
+footer a {
+    color: #0e171a;
+}
