@@ -6,8 +6,13 @@ body {
 
 .titlepage {
     background-color: #0e171a;
-    padding: 9em;
     text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 50px;
+    text-align: center;
+    height: 100vh;
 }
 
 .titlepage a {
