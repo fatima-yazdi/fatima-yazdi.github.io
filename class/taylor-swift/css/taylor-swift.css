@@ -131,10 +131,10 @@ iframe {
     }
 
     .map-iframe {
-        align-content: center;
+        align-content: stretch;
     }
 
     .map-h4 {
-        text-align: center;
+        text-align: horizontal;
     }
 }
