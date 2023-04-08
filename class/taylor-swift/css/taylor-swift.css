@@ -7,6 +7,7 @@ body {
 .titlepage {
     background-color: #0e171a;
     padding: 9em;
+    text-align: center;
 }
 
 .titlepage a {
@@ -29,6 +30,7 @@ h1 {
     font-size: 3em;
     color: #fafafa;
     font-weight: 700;
+    text-align: center;
 }
 
 .part2 p {
@@ -37,6 +39,7 @@ h1 {
 
 .map {
     padding: .5em 16em;
+    align-content: center;
 }
 
 h2 {
@@ -102,10 +105,4 @@ iframe {
     height: 500px;
     width: 100%;
     padding: 0 0 1em 0;
-}
-
-@media screen and (max-width: 480px) {
-    .flex-container {
-        flex-direction: row;
-    }
 }
