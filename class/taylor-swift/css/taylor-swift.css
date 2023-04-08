@@ -105,7 +105,3 @@ iframe {
     padding: 0 0 1em 0;
 }
 
-@media only screen and (max-width: 480px) {
-    .h4-padding: 0 0 1em 0;
-    .map-iframe-width: 100%
-}
