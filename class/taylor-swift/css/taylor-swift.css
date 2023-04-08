@@ -100,7 +100,11 @@ footer a {
 }
 
 iframe {
-    height: 357px;
+    height: 450px;
     width: 100%;
     padding: 0 0 1em 0;
+}
+
+.map iframe {
+    height: 357px;
 }
