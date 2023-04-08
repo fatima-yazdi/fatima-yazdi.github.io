@@ -115,6 +115,7 @@ iframe {
 @media (max-width: 767px) {
     h4 {
         padding: 0 0 2em 0;
+        text-align: center;
     }
 }
 
