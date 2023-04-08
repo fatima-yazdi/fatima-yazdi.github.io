@@ -19,16 +19,18 @@ body {
     color: #fafafa;
 }
 
-.part1 p {
-    padding: .6em 4em;
-}
-
 .titlepage p {
     color: #fafafa;
     text-transform: uppercase;
     font-size: .65em;
     letter-spacing: 1.5px;
+    padding: .65em;
 }
+
+.part1 p {
+    padding: .6em 4em;
+}
+
 
 h1 {
     font-family: 'Cabin Condensed';
