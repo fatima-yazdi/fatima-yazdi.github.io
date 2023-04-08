@@ -39,7 +39,6 @@ h1 {
 
 .map {
     padding: .5em 16em;
-    align-content: center;
 }
 
 h2 {
@@ -105,4 +104,23 @@ iframe {
     height: 500px;
     width: 100%;
     padding: 0 0 1em 0;
+}
+
+/* Styles for mobile devices */
+@media (max-width: 767px) {
+    h4 {
+        padding: 0 0 2em 0;
+    }
+}
+
+/* Styles for mobile and tablet screens */
+@media (max-width: 1023px) {
+    h1 {
+        text-align: center;
+        padding: 2em 0 2em 0;
+    }
+
+    .part1 {
+        margin-top: 2em;
+    }
 }
