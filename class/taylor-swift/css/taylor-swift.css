@@ -131,14 +131,14 @@ iframe {
     }
 
     .map {
-        padding: 0;
+        padding: 0 !important;
     }
 
     .map .container {
-        max-width: none;
-        width: 100%;
-        padding-left: 0;
-        padding-right: 0;
+        max-width: none !important;
+        width: 100% !important;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
     }
 
 }
