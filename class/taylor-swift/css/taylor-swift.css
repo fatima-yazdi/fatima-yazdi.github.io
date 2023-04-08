@@ -130,11 +130,10 @@ iframe {
         margin-top: 2em;
     }
 
-    .map-iframe {
-        align-content: stretch;
-    }
+    .map-container {
 
-    .map-h4 {
-        text-align: horizontal;
+        align-content: center;
+        text-align: center;
+        padding: 2em 0 2em 0;
     }
 }
