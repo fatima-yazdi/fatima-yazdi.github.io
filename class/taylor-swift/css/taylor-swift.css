@@ -131,9 +131,8 @@ iframe {
     }
 
     .map-container {
-
         align-content: center;
         text-align: center;
-        padding: 2em 0 2em 0;
+        width: 100%;
     }
 }
