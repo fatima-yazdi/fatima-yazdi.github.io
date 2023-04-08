@@ -129,4 +129,12 @@ iframe {
     .part1 {
         margin-top: 2em;
     }
+
+    .map-iframe {
+        align-content: center;
+    }
+
+    .map-h4 {
+        text-align: center;
+    }
 }
