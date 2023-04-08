@@ -133,5 +133,10 @@ iframe {
     .map-container {
         width: 100%;
         max-width: 100%;
+        text-align: center;
+        align-content: center;
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
     }
 }
