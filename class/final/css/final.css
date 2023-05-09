@@ -95,13 +95,11 @@ footer .social-icons img {
         height: auto;
     }
 
-    .headerpage {
-        padding: 0 0 2em 0;
-        text-align: center;
-    }
+}
 
+@media (max-width: 767px) {
     .headerpage img {
-        width: 100%;
-        height: auto;
+        height: 300px !important;
+        width: auto !important;
     }
 }
