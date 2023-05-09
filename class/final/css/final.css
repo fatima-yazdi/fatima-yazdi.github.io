@@ -92,22 +92,30 @@ footer .social-icons img {
     }
 
     .luxhome img {
-        height: 300px !important;
-        width: 300px !important;
+        max-width: none !important;
+        width: 100% !important;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
     }
 
     .hatevandalism img {
-        height: 300px !important;
-        width: 300px !important;
+        max-width: none !important;
+        width: 100% !important;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
     }
 
     .p2graphic {
-        height: 300px !important;
-        width: 300px !important;
+        max-width: none !important;
+        width: 100% !important;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
     }
 
     .p4graphic {
-        height: 300px !important;
-        width: 300px !important;
+        max-width: none !important;
+        width: 100% !important;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
     }
 }
