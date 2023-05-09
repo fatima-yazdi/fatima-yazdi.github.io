@@ -1,7 +1,7 @@
 body {
     font-family: 'Open Sans', sans-serif;
     font-size: 16px;
-    background-color: #D3D3D3;
+    background-color: #E8E9EA;
     color: #000000;
 }
 
@@ -19,7 +19,7 @@ body {
 }
 
 .p2 {
-    padding-top: 8em;
+    padding-top: 7em;
     padding-left: 2em;
     padding-right: 2em;
     padding-bottom: 2em;
@@ -32,7 +32,7 @@ body {
 
 .p2 .image1cap {
     font-style: italic;
-    padding-top: 3em;
+    padding-top: 2em;
     padding-bottom: 0em;
 }
 
@@ -40,32 +40,32 @@ body {
     padding-top: 0em;
     padding-left: 2em;
     padding-right: 2em;
-    padding-bottom: 2em;
+    padding-bottom: 1em;
 }
 
 .p4graphic {
-    max-width: 1500px;
+    max-width: 1200px;
     max-height: 400px;
-    padding-bottom: 3em;
-    padding-left: 15em;
-    padding-right: 15em;
+    padding-bottom: 0em;
+    padding-left: 25em;
+    padding-right: 10em;
 }
 
 .p5 {
-    padding-top: 17em;
+    padding-top: 9em;
     padding-left: 2em;
     padding-right: 2em;
-    padding-bottom: 2em;
+    padding-bottom: 0em;
 }
 
 .p5 .hatevandalism {
-    padding-top: 3em;
+    padding-top: 1em;
     padding-left: 11em;
 }
 
 .p5 .image2cap {
     font-style: italic;
-    padding-top: 3em;
+    padding-top: 2em;
     padding-bottom: 0em;
 }
 
