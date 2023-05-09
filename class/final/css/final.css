@@ -88,8 +88,8 @@ footer .social-icons img {
 @media (max-width: 767px) {
 
     /* Other CSS styles... */
-    .luxhome img,
-    .hatevandalism img,
+    .luxhome,
+    .hatevandalism,
     .p2graphic,
     .p4graphic {
         max-width: 100%;
