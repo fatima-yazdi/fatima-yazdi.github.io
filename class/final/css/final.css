@@ -1,0 +1,86 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    background-color: #D3D3D3;
+    color: #000000;
+}
+
+.p1 {
+    padding: 2em;
+    padding-bottom: 1em;
+}
+
+.p2graphic {
+    max-width: 1500px;
+    max-height: 400px;
+    padding-bottom: 2em;
+    padding-left: 15em;
+    padding-right: 15em;
+}
+
+.p2 {
+    padding-top: 8em;
+    padding-left: 2em;
+    padding-right: 2em;
+    padding-bottom: 2em;
+}
+
+.p2 .luxhome {
+    padding-top: 3em;
+    padding-left: 11em;
+}
+
+.p2 .image1cap {
+    font-style: italic;
+    padding-top: 3em;
+    padding-bottom: 0em;
+}
+
+.p3 {
+    padding-top: 0em;
+    padding-left: 2em;
+    padding-right: 2em;
+    padding-bottom: 2em;
+}
+
+.p4graphic {
+    max-width: 1500px;
+    max-height: 400px;
+    padding-bottom: 3em;
+    padding-left: 15em;
+    padding-right: 15em;
+}
+
+.p5 {
+    padding-top: 17em;
+    padding-left: 2em;
+    padding-right: 2em;
+    padding-bottom: 2em;
+}
+
+.p5 .hatevandalism {
+    padding-top: 3em;
+    padding-left: 11em;
+}
+
+.p5 .image2cap {
+    font-style: italic;
+    padding-top: 3em;
+    padding-bottom: 0em;
+}
+
+.p6 {
+    padding: 2em;
+    padding-top: 0em;
+}
+
+footer {
+    font-size: 14px;
+    text-align: center;
+    padding-bottom: 4em;
+}
+
+footer .social-icons img {
+    width: 20px;
+    height: 20px;
+}
