@@ -86,19 +86,6 @@ footer .social-icons img {
 }
 
 @media (max-width: 767px) {
-
-    /* Other CSS styles... */
-    .luxhome,
-    .hatevandalism,
-    .p2graphic,
-    .p4graphic {
-        max-width: 100%;
-        height: auto;
-    }
-
-}
-
-@media (max-width: 767px) {
     .headerpage img {
         height: 300px !important;
         width: auto !important;
