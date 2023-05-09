@@ -84,3 +84,32 @@ footer .social-icons img {
     width: 20px;
     height: 20px;
 }
+
+/* Styles for mobile devices */
+@media (max-width: 767px) {
+    .headerpage {
+        padding: 0 0 2em 0;
+        text-align: center;
+    }
+
+    .p2graphic {
+        padding: 0 0 2em 0;
+        text-align: center;
+    }
+
+    .p2 .luxhome {
+        padding: 0 0 2em 0;
+        text-align: center;
+    }
+
+    .p4graphic {
+        padding: 0 0 2em 0;
+        text-align: center;
+    }
+
+    .p5 .hatevandalism {
+        padding: 0 0 2em 0;
+        text-align: center;
+    }
+
+}
