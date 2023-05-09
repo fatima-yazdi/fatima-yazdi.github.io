@@ -98,8 +98,8 @@ footer .social-icons img {
 }
 
 @media (max-width: 767px) {
-    .headerpage img {
-        height: 300px !important;
-        width: auto !important;
+    .mobile-image {
+        max-width: 100%;
+        height: auto;
     }
 }
