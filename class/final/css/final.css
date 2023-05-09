@@ -88,10 +88,12 @@ footer .social-icons img {
 @media (max-width: 767px) {
     /* Other CSS styles... */
 
+    .headerpage,
     img,
     .p2graphic,
     .p4graphic {
         max-width: 100%;
         height: auto;
     }
+
 }
