@@ -90,6 +90,8 @@ footer .social-icons img {
     .headerpage {
         padding: 0 0 2em 0;
         text-align: center;
+        max-width: 100%;
+        height: auto;
     }
 
     .p2graphic {
@@ -112,4 +114,13 @@ footer .social-icons img {
         text-align: center;
     }
 
+}
+
+@media (max-width: 767px) {
+    /* Other CSS styles... */
+
+    img, .p2graphic, .p4graphic {
+        max-width: 100%;
+        height: auto;
+    }
 }
