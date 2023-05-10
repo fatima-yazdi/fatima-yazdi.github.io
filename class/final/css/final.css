@@ -84,11 +84,3 @@ footer .social-icons img {
     width: 20px;
     height: 20px;
 }
-
-@media (max-width: 767px) {
-    .headerpage img {
-        height: 300px !important;
-        width: auto !important;
-    }
-
-}
