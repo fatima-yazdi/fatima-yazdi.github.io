@@ -5,73 +5,28 @@ body {
     color: #000000;
 }
 
-.p1 {
-    padding: 2em;
-    padding-bottom: 1em;
+main {
+    padding: 0 3em 0 3em;
+    margin: 4em 0;
 }
 
-.p2graphic {
-    max-width: 1500px;
-    max-height: 400px;
-    padding-bottom: 2em;
-    padding-left: 15em;
-    padding-right: 15em;
+.images {
+    max-width: 75%;
+    margin: 0 auto;
+    padding: 2em 0;
 }
 
-.p2 {
-    padding-top: 7em;
-    padding-left: 2em;
-    padding-right: 2em;
-    padding-bottom: 0em;
-}
-
-.p2 .luxhome {
-    padding-top: 1em;
-    padding-left: 11em;
-}
-
-.p2 .image1cap {
+.images p {
+    padding: 2em 0 0 0;
     font-style: italic;
-    padding-top: 2em;
-    padding-bottom: 0em;
+    font-size: .85em;
+    text-align: center;
 }
 
-.p3 {
-    padding-top: 0em;
-    padding-left: 2em;
-    padding-right: 2em;
-    padding-bottom: 1em;
-}
-
-.p4graphic {
-    max-width: 1200px;
-    max-height: 400px;
-    padding-bottom: 0em;
-    padding-left: 25em;
-    padding-right: 10em;
-}
-
-.p5 {
-    padding-top: 9em;
-    padding-left: 2em;
-    padding-right: 2em;
-    padding-bottom: 0em;
-}
-
-.p5 .hatevandalism {
-    padding-top: 1em;
-    padding-left: 11em;
-}
-
-.p5 .image2cap {
-    font-style: italic;
-    padding-top: 2em;
-    padding-bottom: 0em;
-}
-
-.p6 {
-    padding: 2em;
-    padding-top: 0em;
+.graphic {
+    max-width: 75%;
+    margin: 0 auto;
+    padding: 1em 0 2em 0;
 }
 
 footer {
@@ -83,4 +38,14 @@ footer {
 footer .social-icons img {
     width: 20px;
     height: 20px;
+}
+
+@media (max-width:556px) {
+
+    .graphic,
+    .images {
+        max-width: 95%;
+        margin: 0 auto;
+
+    }
 }
